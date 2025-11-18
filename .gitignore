@@ -49,3 +49,7 @@ test_*.xlsx
 # OS
 .DS_Store
 Thumbs.db
+
+# Markdown
+PRD.md
+CHECKLIST.md
